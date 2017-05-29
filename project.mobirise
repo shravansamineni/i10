@@ -557,7 +557,8 @@
               "color": "#2b0680"
             },
             ".mbr-section-title": {
-              "color": "#553982"
+              "color": "#553982",
+              "font-size": "32px"
             },
             ".mbr-section-title DIV": {
               "color": "#475577"
@@ -606,7 +607,8 @@
               "font-size": "36px"
             },
             "H3": {
-              "color": "#475577"
+              "color": "#475577",
+              "font-size": "30px"
             }
           },
           "_anchor": "msg-box5-o",
@@ -664,10 +666,11 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "font-size": "36px"
+              "font-size": "30px"
             },
             "DIV": {
-              "color": "#475577"
+              "color": "#475577",
+              "font-size": "30px"
             }
           },
           "_anchor": "msg-box5-p",
@@ -696,7 +699,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/in-high-i7-wrap-in-1400x3935.jpg",
+              "src": "@PROJECT_PATH@/assets/images/in-high-i7-wrap-in-1400x3936.jpg",
               "link": "",
               "alt": "",
               "title": "",
