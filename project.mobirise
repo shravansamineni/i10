@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lucky Hyundai",
-    "currentPage": "grandi10.html",
+    "currentPage": "Homepage.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -440,7 +440,7 @@
             "showCaption": true
           },
           "title": "About LUCKY HYUNDAI",
-          "caption": "<p>&nbsp;LUCKY HYUNDAI is the biggest Hyundai Showroom in Andhra Pradesh State and a reputed Hyundai dealership in the auto space located in the Captial Region of Andhra Pradesh. Delivering excellent customer services and providing high-quality Hyundai cars, the dealership has made itself popular among auto consumers.</p>"
+          "caption": "<p>LUCKY HYUNDAI is the biggest Hyundai Showroom in Andhra Pradesh State and a reputed Hyundai dealership in the auto space located in the Captial Region of Andhra Pradesh. Delivering excellent customer services and providing high-quality Hyundai cars, the dealership has made itself popular among auto consumers.</p>"
         },
         {
           "_tags": [
@@ -730,7 +730,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/in-high-i7-wrap-in-1400x3938.jpg",
+              "src": "@PROJECT_PATH@/assets/images/in-high-i7-wrap-in-1400x3931.jpg",
               "link": "",
               "alt": "",
               "title": "",
